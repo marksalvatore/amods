@@ -1,0 +1,1038 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"invoic",
+				"invoicemodel"
+			],
+			[
+				"entries",
+				"entriesclosedate"
+			],
+			[
+				"nu",
+				"numSheets"
+			],
+			[
+				"print_r",
+				"print_r($show"
+			],
+			[
+				"entrie",
+				"entriesclosedate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "adjacentPage.md",
+			"settings":
+			{
+				"buffer_size": 1045,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "synx htm",
+		"selected_items":
+		[
+			[
+				"synx htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"colorinstal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsch",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"ColorSchemeEditor",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"zoo",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"uzoo",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"unzoo",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"zoom",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"pak rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pak",
+				"Package Control: Install Package"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"installpak",
+				"Package Control: Install Package"
+			],
+			[
+				"instal pak",
+				"Package Control: Install Package"
+			],
+			[
+				"findkc",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"pref sublin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"pref",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"prefs",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"synxjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"filelcate",
+				"File: Locate"
+			],
+			[
+				"syxph",
+				"Set Syntax: PHP"
+			],
+			[
+				"instalp",
+				"Package Control: Install Package"
+			],
+			[
+				"packinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disablk",
+				"Package Control: Disable Package"
+			],
+			[
+				"packcon",
+				"Package Control: Enable Package"
+			],
+			[
+				"create belo",
+				"Origami: Create Pane Below"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instap",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"pacrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"instalpak",
+				"Package Control: Install Package"
+			],
+			[
+				"syxsa",
+				"Set Syntax: Sass"
+			],
+			[
+				"instalpack",
+				"Package Control: Install Package"
+			],
+			[
+				"sycs",
+				"Set Syntax: CSS"
+			],
+			[
+				"syxhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"creaabov",
+				"Origami: Create Pane Above"
+			],
+			[
+				"creatlef",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syxjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"package control rem pk",
+				"Package Control: Remove Package"
+			],
+			[
+				"jhnt",
+				"JSHint: Clear Annotations"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"createleft",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"create ri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"unzoom",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"clonerigh",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"clonebel",
+				"Origami: Clone File to Pane Below"
+			],
+			[
+				"createfilr",
+				"Origami: Create Pane with File on the Right"
+			],
+			[
+				"clonefileto be",
+				"Origami: Clone File to Pane Below"
+			],
+			[
+				"clonebe",
+				"Origami: Clone File to Pane Below"
+			],
+			[
+				"createwr",
+				"Origami: Create Pane with File on the Right"
+			],
+			[
+				"destryab",
+				"Origami: Destroy Pane Above"
+			],
+			[
+				"createpaab",
+				"Origami: Create Pane Above"
+			],
+			[
+				"creatpaneb",
+				"Origami: Create Pane Below"
+			],
+			[
+				"oricreaterig",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"syxcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"syx css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ipsu",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"syn:ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"sni",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				" sytax: cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"syx",
+				"Set Syntax: HTML"
+			],
+			[
+				"aut",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"file",
+				"File: Rename"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ssx",
+				"Set Syntax: PHP"
+			],
+			[
+				"snippet ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pacage contr",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Add Channel"
+			],
+			[
+				"pac",
+				"Package Control: Add Channel"
+			],
+			[
+				"about",
+				"About"
+			],
+			[
+				"package control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 401.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/marksalvatore/Sites/allenmods"
+	],
+	"file_history":
+	[
+		"/Users/marksalvatore/Sites/mars/index.html",
+		"/Users/marksalvatore/Sites/mars/pages/intro_page07_Text05.html",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page05_Text04.js",
+		"/Users/marksalvatore/Sites/mars/scripts/index_globals.js",
+		"/Users/marksalvatore/Sites/allenmods/index.html",
+		"/Users/marksalvatore/Sites/allenmods/adjacentPage.md",
+		"/Users/marksalvatore/Sites/mars/scripts/app.js",
+		"/Users/marksalvatore/bin/dotfiles/bash/aliases",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page01_Reveal01.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page02_Text01.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page03_Text02.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page04_Text03.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page06_Slider01.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page07_Text05.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page08_Text06.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page09_Text07.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page10_Animate01.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page11_Reveal02.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page12_Reveal03.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page13_MultiChoice01.js",
+		"/Users/marksalvatore/Sites/mars/scripts/intro_page14_Text12.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page01_Text08.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page02_MultiSelect01.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page03_MultiSelect02.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page04_AorB01.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page05_Notes01.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page06_Text09.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page07_Carousel01.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page08_Slider02.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page09_MultiChoice02.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page10_MultiChoice03.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page11_Notes02.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page12_Text10.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page13_Reveal04.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page14_TextEntry01.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page15_TextEntry02.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page16_AorB02.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page17_Notes03.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod1_page18_Text11.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page01_Text12.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page02_Carousel02.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page03_Text13.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page04_Reveal05.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page05_AorB03.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page06_TextEntry03.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page07_MultiSelect03.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page08_Reveal06.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page09_TextEntry04.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page10_Text14.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page11_TextEntry05.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page12_Notes04.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page13_Text15.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page14_Text16.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page15_MultiSelect04.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page16_MultiSelect05.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page17_Text17.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page18_Notes05.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page19_Notes06.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page20_Notes07.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page21_Notes08.js",
+		"/Users/marksalvatore/Sites/mars/scripts/mod2_page22_Text18.js",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page07_Carousel01.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page07_Carousel01.html",
+		"/Users/marksalvatore/Sites/mars/css/index_globals.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page15_MultiSelect04.html",
+		"/Users/marksalvatore/Downloads/tburkowske/NavigationPageOrder.txt",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page16_MultiSelect05.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page10_Text14.html",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page18_Text11.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page17_Notes03.html",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page17_Notes03.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page15_TextEntry02.html",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page11_Notes02.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page11_Notes02.html",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page22_Text18.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page22_Text18.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page21_Notes08.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page21_Notes08.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page20_Notes07.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page20_Notes07.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page19_Notes06.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page19_Notes06.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page18_Notes05.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page18_Notes05.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page17_Text17.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page17_Text17.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page16_MultiSelect05.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page15_MultiSelect04.css",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page14_Text16.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page14_Text16.html",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page13_Text15.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page13_Text15.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page12_Notes04.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page12_Notes04.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page11_TextEntry05.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page11_TextEntry05.css",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page10_Text14.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page09_TextEntry04.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page09_TextEntry04.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page08_Reveal06.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page08_Reveal06.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page07_MultiSelect03.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page07_MultiSelect03.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page06_TextEntry03.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page06_TextEntry03.css",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page05_AorB03.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page05_AorB03.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page04_Reveal05.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page04_Reveal05.html",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page03_Text13.html",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page03_Text13.css",
+		"/Users/marksalvatore/Sites/mars/css/mod2_page02_Carousel02.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page01_Text12.html",
+		"/Users/marksalvatore/Sites/mars/pages/mod2_page02_Carousel02.html",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page18_Text11.html",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page16_AorB02.html",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page16_AorB02.css",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page15_TextEntry02.css",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page14_TextEntry01.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page13_Reveal04.html",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page14_TextEntry01.html",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page13_Reveal04.css",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page12_Text10.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page12_Text10.html",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page10_MultiChoice03.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page10_MultiChoice03.html",
+		"/Users/marksalvatore/Sites/mars/css/mod1_page09_MultiChoice02.css",
+		"/Users/marksalvatore/Sites/mars/pages/mod1_page09_MultiChoice02.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"V1king13",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/js,/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/scripts",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/js",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/scripts/headerplacement",
+			"",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/scripts",
+			"",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel",
+			"",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/sass",
+			"",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/scripts",
+			"",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/sass",
+			"<current file>",
+			"",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/sass",
+			"<open folders>",
+			"<current file>",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/sass",
+			"./public/bluesteel/sass",
+			"/Users/marksalvatore/Documents/ee_web/eqentries/equestrianentries/application/views,/Users/marksalvatore/Documents/ee_web/eqentries/public/bluesteel/sass",
+			"public/bluesteel/sass, equestrian/application/views",
+			"public/bluesteel/sass",
+			"<project>",
+			"in selection",
+			"",
+			"'",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addNext",
+			"AdjacentPage",
+			"prevClick",
+			"fadeInText();",
+			"fadeInText",
+			"drop-shadow",
+			"flipster__item__content p",
+			"console.log(\"prevPage()\");",
+			"normalize.css",
+			"fonts",
+			"pages.in_12 + '.html)'",
+			".html",
+			"pages.i",
+			"pages.p",
+			"<!--  End: container -->",
+			"<br>",
+			"#text0 p {\n	padding-top: 25px;\n}\n",
+			"li",
+			"#text0",
+			"#text0 {",
+			"text0",
+			"demo-table",
+			"category growth strat",
+			"button",
+			"hide",
+			"selected",
+			"button",
+			"submit {",
+			"border-top",
+			"border",
+			"muni",
+			"controlWindow",
+			"\"submit\"",
+			"there was that other",
+			"40x40",
+			"controlPanel",
+			"chatWindow",
+			"80x80",
+			"TQ_Question",
+			"page 09",
+			"officeWindow",
+			"temp",
+			"60px",
+			"60x60",
+			"bubble",
+			"convo",
+			"1024",
+			"git",
+			".seek",
+			"init",
+			"choice",
+			"TweenMax",
+			"max",
+			"showTaskFeedback",
+			"this",
+			"togg",
+			"id=\"qa\"",
+			"#submit",
+			".submit ",
+			".submit {",
+			"submit",
+			".submit",
+			".choice",
+			"\n;",
+			"<p></p>",
+			"img/",
+			".choiceCont",
+			"choiceCont",
+			"data-coord",
+			"multiSelect",
+			"questionBlock",
+			".questionBlock",
+			"instrShortBlock",
+			"<p></p>",
+			"data-duration=\"3\" ",
+			"var tl",
+			"tq_sc",
+			"MarkS",
+			".taskQuestion",
+			".talkRAlt",
+			"page 09",
+			"data-page",
+			"id=\"t4\" ",
+			"class=\"multiChoice",
+			"class='multiChoice",
+			"class=\"multichoice",
+			"multichoice",
+			"---------------->",
+			"page 33",
+			".css",
+			"atlwdg-trigger",
+			"************COURSE INTRO STYLING",
+			"exclude",
+			"************COURSE INTRO STYLING",
+			"#courseIntro",
+			"************COURSE INTRO STYLING",
+			"courseIntro",
+			"#courseIntro",
+			"box-sizing",
+			"accordian.css",
+			"accordian",
+			"50_gold",
+			"1_gold",
+			"#1_gold",
+			"float:",
+			"Example",
+			"cl ",
+			"query",
+			"myQuery",
+			"scope",
+			"artistorder",
+			"myApp",
+			"twitter-tab",
+			"twitter",
+			".socialnews",
+			".socialmedia,.socialnews",
+			"one-third",
+			"nerra_display_socialmedia_boxes",
+			"nerra-fixedwidth",
+			"-fixedwidth",
+			"give-today",
+			"bgcolor_feature",
+			"pages/",
+			"border-box",
+			"site_width",
+			"<html",
+			"@media",
+			"flaco"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"adjacentPage",
+			"prevPage",
+			"fadeInText('#text0');",
+			"console.log(\"prevClick()\");",
+			"",
+			"pages.in_",
+			"pages.i",
+			"<!-- container -->",
+			", ",
+			"dataSources-table",
+			"TQ_Question",
+			"80x80",
+			"controlWindow",
+			"chatPanel",
+			"40x40",
+			"officePanel",
+			"80px",
+			"80x80",
+			"data-duration=\"0\" ",
+			"-------------- -->",
+			"pages-fixedwidth/",
+			"$flaco)",
+			"$wide",
+			"V1king13",
+			"",
+			"entriestemp_tmp_downloads_dir",
+			"entriestemp_zipped_shows_dir",
+			"entriestemp_archive_dir",
+			",     ",
+			"showentryid_array",
+			"updateUserLastvisitedDate",
+			"updateLastvisitedDateForUser",
+			"prepAndFetchCard",
+			"h4",
+			".on('click',",
+			"}\n",
+			"hayfkol",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"		var requiredfields = [\"cardnum\", \"expdate\", \"cvv2\", \"firstname\", \"lastname\", \"address\", \"city\", \"state\", \"country\", \"zip\"];\n",
+			"'",
+			"tag"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "6374f87e",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"syntax_mgr_loaded": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "adjacentPage.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								702,
+								702
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "c4ba5728",
+							"spell_check": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"syntax_mgr_loaded": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 129.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 620.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "amods.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"editcardinfo",
+				"public/bluesteel/js/admin/editcardinfo.js"
+			],
+			[
+				"adminscr",
+				"public/bluesteel/js/eqentries-adminscripts.js"
+			],
+			[
+				"footersc",
+				"equestrianentries/application/views/themes/bluesteel/footerscripts.php"
+			],
+			[
+				"headersc",
+				"equestrianentries/application/views/themes/bluesteel/headerscripts.php"
+			],
+			[
+				"users.php",
+				"equestrianentries/application/views/admin/cards/users.php"
+			],
+			[
+				"gruntjs",
+				"gruntfile.js"
+			],
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/mars/mars.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
