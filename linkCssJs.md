@@ -1,4 +1,4 @@
-## adjacentPage()
+## linkCssJs()
 
 ### Description
 ```
