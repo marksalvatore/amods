@@ -47,7 +47,7 @@
 			"file": "adjacentPage.md",
 			"settings":
 			{
-				"buffer_size": 1045,
+				"buffer_size": 1076,
 				"line_ending": "Unix"
 			}
 		},
@@ -905,15 +905,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1045,
+						"buffer_size": 1076,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								702,
-								702
+								756,
+								756
 							]
 						],
 						"settings":
@@ -926,7 +926,7 @@
 							"syntax_mgr_loaded": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 259.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,

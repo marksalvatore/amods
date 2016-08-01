@@ -12,7 +12,7 @@ jQuery preloader
 
 ### Module
 ```
-function link_CSS_JS(filename) {
+function linkCssJs(filename) {
 
   var obj = {
     getStylesheet: function() {
@@ -34,11 +34,11 @@ function link_CSS_JS(filename) {
 }
 ```
 ### Usage
-**link_CSS_JS()** assumes the style and script files share the same filename.
+**linkCssJs()** assumes the style and script files share the same filename.
 ```
 <head>
 	<script>
-		resources = link_CSS_JS('page23');
+		resources = linkCssJs('page23');
 		resources.getStylesheet();
 		resources.getScript();
 	</script>
