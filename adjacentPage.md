@@ -35,11 +35,11 @@ pages.a1_03 = 'intro_page03_Text02';
 
 ### Usage
 ```
-// create the objects
+// create the objects for the specific page
 nextPage = adjacentPage(pages.a1_03 + '.html');
 prevPage = adjacentPage(pages.a1_01 + '.html');
 
-// reference the object's getPage() method
+// reference the object's getPage() method globally
 addNext = function() {
 	$("#nextButton").unbind("click");
 	$("#nextButton").click(function(){
