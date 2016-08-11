@@ -1,5 +1,5 @@
 # Modules
 
-+ <a href="adjacentPage.md">adjacentPage()</a>
++ <a href="nextPage.md">nextPage()</a>
 + <a href="linkCssJs.md">linkCssJs()</a>
 
